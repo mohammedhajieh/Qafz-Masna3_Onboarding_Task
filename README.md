@@ -8,4 +8,4 @@ App Main Sections:
 1-cupertino_icons.<br>
 2-animate_do.<br>
 3-google_fonts.<br>
-4-lottie
+4-lottie.
